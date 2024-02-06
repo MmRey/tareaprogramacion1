@@ -3,3 +3,9 @@ Yerba
 Harina
 Arroz
 Agua
+Mayonesa
+Bananas
+Mermelada
+Pan
+Lechuga
+
